@@ -1,0 +1,57 @@
+﻿  Processing .\RobloxProxy.idl
+  RobloxProxy.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.idl
+  ocidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleidl.idl
+  oleidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\servprov.idl
+  servprov.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\urlmon.idl
+  urlmon.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\msxml.idl
+  msxml.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.acf
+  oaidl.acf
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.acf
+  ocidl.acf
+  stdafx.cpp
+  CookiesEngine.cpp
+  format_string.cpp
+  Generating Code...
+  RobloxProxy.cpp
+  Launcher.cpp
+c:\program files (x86)\windows kits\8.1\include\um\shlobj.h(2228): warning C4091: 'typedef ': ignored on left of 'tagDTI_ADTIWUI' when no variable is declared
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\win\vistatools.h(133): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+  VistaTools.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\win\vistatools.cpp(69): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+  SharedLauncher.cpp
+c:\program files (x86)\windows kits\8.1\include\um\shlobj.h(2228): warning C4091: 'typedef ': ignored on left of 'tagDTI_ADTIWUI' when no variable is declared
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\win\vistatools.h(133): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\win\sharedlauncher.cpp(97): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+  Generating Code...
+  RobloxProxy_i.c
+  dlldatax.c
+  Generating Code...
+  dllmain.cpp
+format_string.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library bin\Debug\RobloxProxy.lib and object bin\Debug\RobloxProxy.exp
+  RobloxProxy.vcxproj -> E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Installer\RobloxProxy\bin\Debug\RobloxProxy.dll
+  RobloxProxy.vcxproj -> bin\Debug\RobloxProxy.pdb (Full PDB)

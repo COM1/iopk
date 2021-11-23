@@ -1,0 +1,567 @@
+﻿  TaskDialog.cpp
+E:/boost/preprocessor/iteration/iterate.hpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/preprocessor/iteration/iterate.hpp(13): error C2008: '/': unexpected in macro definition
+  Unknown compiler version - please run the configure tests and report the results
+E:/boost/function.hpp(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/function.hpp(19): error C2008: ':': unexpected in macro definition
+E:/boost/exception/exception.hpp(189): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(189): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(189): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(192): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(192): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(192): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(195): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(195): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(195): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(198): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(198): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(198): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(248): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(248): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(248): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(249): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(249): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(251): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(251): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(251): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(252): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(252): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(254): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(254): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(254): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(255): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(255): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(257): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(257): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(257): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(258): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(258): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(260): error C2063: 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail::get_diagnostic_information': not a function
+E:/boost/exception/exception.hpp(289): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(289): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(289): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(292): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(292): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(297): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(297): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(297): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(300): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(300): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(305): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(305): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(305): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(308): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(308): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(62): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(62): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(62): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(63): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(63): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(81): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(81): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(81): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(85): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(85): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/detail/sp_typeinfo.hpp(20): fatal error C1083: Cannot open include file: 'boost/core/typeinfo.hpp': No such file or directory
+  ShutdownRobloxApp.cpp
+E:/boost/smart_ptr/shared_ptr.hpp(17): fatal error C1083: Cannot open include file: 'boost/config.hpp': No such file or directory
+  ShutdownDialog.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Win\VistaTools.h(133): warning C4996: 'GetVersionExW': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+E:/boost/thread/detail/platform.hpp(14): fatal error C1083: Cannot open include file: 'boost/config.hpp': No such file or directory
+  SharedHelpers.cpp
+E:/boost/core/noncopyable.hpp(12): fatal error C1083: Cannot open include file: 'boost/config.hpp': No such file or directory
+  ProgressDialog.cpp
+E:/boost/preprocessor/iteration/iterate.hpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/preprocessor/iteration/iterate.hpp(13): error C2008: '/': unexpected in macro definition
+  Unknown compiler version - please run the configure tests and report the results
+E:/boost/function.hpp(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/function.hpp(19): error C2008: ':': unexpected in macro definition
+E:/boost/exception/exception.hpp(189): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(189): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(189): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(192): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(192): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(192): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(195): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(195): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(195): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(198): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(198): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(198): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(248): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(248): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(248): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(249): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(249): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(251): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(251): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(251): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(252): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(252): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(254): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(254): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(254): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(255): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(255): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(257): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(257): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(257): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(258): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(258): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(260): error C2063: 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail::get_diagnostic_information': not a function
+E:/boost/exception/exception.hpp(289): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(289): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(289): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(292): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(292): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(297): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(297): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(297): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(300): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(300): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(305): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(305): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(305): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(308): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(308): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(62): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(62): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(62): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(63): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(63): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(81): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(81): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(81): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(85): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(85): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/detail/sp_typeinfo.hpp(20): fatal error C1083: Cannot open include file: 'boost/core/typeinfo.hpp': No such file or directory
+  MainDialog.cpp
+E:/boost/preprocessor/iteration/iterate.hpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/preprocessor/iteration/iterate.hpp(13): error C2008: '/': unexpected in macro definition
+  Unknown compiler version - please run the configure tests and report the results
+E:/boost/function.hpp(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/function.hpp(19): error C2008: ':': unexpected in macro definition
+E:/boost/exception/exception.hpp(189): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(189): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(189): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(192): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(192): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(192): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(195): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(195): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(195): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(198): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(198): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(198): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(248): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(248): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(248): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(249): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(249): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(251): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(251): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(251): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(252): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(252): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(254): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(254): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(254): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(255): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(255): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(257): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(257): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(257): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(258): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(258): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(260): error C2063: 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail::get_diagnostic_information': not a function
+E:/boost/exception/exception.hpp(289): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(289): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(289): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(292): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(292): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(297): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(297): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(297): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(300): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(300): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(305): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(305): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(305): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(308): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(308): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(62): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(62): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(62): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(63): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(63): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(81): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(81): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(81): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(85): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(85): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/detail/sp_typeinfo.hpp(20): fatal error C1083: Cannot open include file: 'boost/core/typeinfo.hpp': No such file or directory
+  LegacyDialog.cpp
+E:/boost/preprocessor/iteration/iterate.hpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/preprocessor/iteration/iterate.hpp(13): error C2008: '/': unexpected in macro definition
+  Unknown compiler version - please run the configure tests and report the results
+E:/boost/function.hpp(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/function.hpp(19): error C2008: ':': unexpected in macro definition
+E:/boost/exception/exception.hpp(189): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(189): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(189): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(192): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(192): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(192): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(195): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(195): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(195): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(198): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(198): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(198): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(248): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(248): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(248): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(249): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(249): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(251): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(251): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(251): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(252): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(252): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(254): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(254): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(254): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(255): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(255): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(257): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(257): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(257): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(258): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(258): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(260): error C2063: 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail::get_diagnostic_information': not a function
+E:/boost/exception/exception.hpp(289): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(289): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(289): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(292): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(292): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(297): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(297): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(297): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(300): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(300): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(305): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(305): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(305): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(308): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(308): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(62): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(62): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(62): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(63): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(63): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(81): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(81): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(81): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(85): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(85): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/detail/sp_typeinfo.hpp(20): fatal error C1083: Cannot open include file: 'boost/core/typeinfo.hpp': No such file or directory
+  HttpTools.cpp
+E:/boost/preprocessor/iteration/iterate.hpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/preprocessor/iteration/iterate.hpp(13): error C2008: '/': unexpected in macro definition
+  Unknown compiler version - please run the configure tests and report the results
+E:/boost//function.hpp(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost//function.hpp(19): error C2008: ':': unexpected in macro definition
+E:/boost/exception/exception.hpp(189): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(189): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(189): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(192): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(192): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(192): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(195): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(195): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(195): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(198): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(198): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(198): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(248): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(248): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(248): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(249): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(249): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(251): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(251): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(251): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(252): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(252): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(254): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(254): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(254): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(255): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(255): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(257): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(257): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(257): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(258): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(258): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(260): error C2063: 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail::get_diagnostic_information': not a function
+E:/boost/exception/exception.hpp(289): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(289): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(289): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(292): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(292): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(297): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(297): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(297): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(300): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(300): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(305): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(305): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(305): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(308): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(308): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(62): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(62): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(62): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(63): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(63): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(81): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(81): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(81): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(85): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(85): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/detail/sp_typeinfo.hpp(20): fatal error C1083: Cannot open include file: 'boost/core/typeinfo.hpp': No such file or directory
+  GoogleAnalyticsHelper.cpp
+E:/boost/preprocessor/iteration/iterate.hpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/preprocessor/iteration/iterate.hpp(13): error C2008: '/': unexpected in macro definition
+  Unknown compiler version - please run the configure tests and report the results
+E:/boost//function.hpp(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost//function.hpp(19): error C2008: ':': unexpected in macro definition
+E:/boost/exception/exception.hpp(189): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(189): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(189): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(192): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(192): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(192): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(195): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(195): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(195): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(198): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(198): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(198): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(248): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(248): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(248): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(249): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(249): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(251): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(251): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(251): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(252): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(252): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(254): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(254): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(254): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(255): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(255): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(257): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(257): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(257): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(258): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(258): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(260): error C2063: 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail::get_diagnostic_information': not a function
+E:/boost/exception/exception.hpp(289): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(289): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(289): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(292): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(292): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(297): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(297): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(297): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(300): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(300): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(305): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(305): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(305): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(308): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(308): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(62): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(62): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(62): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(63): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(63): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(81): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(81): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(81): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(85): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(85): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/detail/sp_typeinfo.hpp(20): fatal error C1083: Cannot open include file: 'boost/core/typeinfo.hpp': No such file or directory
+  FileDeployer.cpp
+E:/boost/preprocessor/iteration/iterate.hpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/preprocessor/iteration/iterate.hpp(13): error C2008: '/': unexpected in macro definition
+  Unknown compiler version - please run the configure tests and report the results
+E:/boost//function.hpp(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost//function.hpp(19): error C2008: ':': unexpected in macro definition
+E:/boost/exception/exception.hpp(189): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(189): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(189): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(192): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(192): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(192): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(195): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(195): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(195): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(198): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(198): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(198): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(248): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(248): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(248): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(249): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(249): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(251): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(251): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(251): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(252): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(252): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(254): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(254): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(254): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(255): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(255): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(257): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(257): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(257): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(258): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(258): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(260): error C2063: 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail::get_diagnostic_information': not a function
+E:/boost/exception/exception.hpp(289): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(289): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(289): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(292): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(292): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(297): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(297): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(297): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(300): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(300): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(305): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(305): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(305): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(308): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(308): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(62): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(62): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(62): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(63): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(63): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(81): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(81): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(81): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(85): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(85): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/detail/sp_typeinfo.hpp(20): fatal error C1083: Cannot open include file: 'boost/core/typeinfo.hpp': No such file or directory
+  ComModule.cpp
+E:/boost/core/noncopyable.hpp(12): fatal error C1083: Cannot open include file: 'boost/config.hpp': No such file or directory
+  Bootstrapper.cpp
+E:/boost/preprocessor/iteration/iterate.hpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/preprocessor/iteration/iterate.hpp(13): error C2008: '/': unexpected in macro definition
+  Unknown compiler version - please run the configure tests and report the results
+E:/boost/function.hpp(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:/boost/function.hpp(19): error C2008: ':': unexpected in macro definition
+E:/boost/exception/exception.hpp(189): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(189): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(189): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(192): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(192): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(192): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(195): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(195): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(195): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(198): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(198): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(198): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(248): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(248): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(248): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(249): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(249): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(251): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(251): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(251): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(252): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(252): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(254): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(254): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(254): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(255): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(255): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(257): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(257): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(257): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(258): error C2039: 'set_info': is not a member of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+  E:/boost/exception/exception.hpp(151): note: see declaration of 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail'
+E:/boost/exception/exception.hpp(258): error C2238: unexpected token(s) preceding ';'
+E:/boost/exception/exception.hpp(260): error C2063: 'PREPROCESSOR_ITERATION_ITERATE_HPP::exception_detail::get_diagnostic_information': not a function
+E:/boost/exception/exception.hpp(289): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(289): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(289): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(292): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(292): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(297): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(297): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(297): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(300): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(300): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/exception/exception.hpp(305): error C2332: 'class': missing tag name
+E:/boost/exception/exception.hpp(305): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/exception/exception.hpp(305): error C2059: syntax error: '/'
+E:/boost/exception/exception.hpp(308): error C2143: syntax error: missing ';' before '{'
+E:/boost/exception/exception.hpp(308): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(62): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(62): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(62): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(63): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(63): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/throw_exception.hpp(81): error C2332: 'class': missing tag name
+E:/boost/throw_exception.hpp(81): error C2993: '': illegal type for non-type template parameter '<unnamed-tag>'
+E:/boost/throw_exception.hpp(81): error C2059: syntax error: '/'
+E:/boost/throw_exception.hpp(85): error C2143: syntax error: missing ';' before '{'
+E:/boost/throw_exception.hpp(85): error C2447: '{': missing function header (old-style formal list?)
+E:/boost/detail/sp_typeinfo.hpp(20): fatal error C1083: Cannot open include file: 'boost/core/typeinfo.hpp': No such file or directory
+  VersionInfo.cpp
+E:/boost/token_iterator.hpp(21): fatal error C1083: Cannot open include file: 'boost/assert.hpp': No such file or directory
+  RobloxServicesTools.cpp
+E:/boost/algorithm/string/config.hpp(14): fatal error C1083: Cannot open include file: 'boost/config.hpp': No such file or directory
+  Generating Code...

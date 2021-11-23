@@ -1,0 +1,551 @@
+﻿  A subdirectory or file ..\..\UploadBits already exists.
+  0 File(s) copied
+          1 file(s) copied.
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:17]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:17]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:19]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:19]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:22]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:22]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:25]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest1-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:25]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:27]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest1-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:28]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:30]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest1-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:30]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:33]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest2-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:33]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:36]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest2-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:36]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:39]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest2-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:39]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:42]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest3-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:42]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:44]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest3-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:44]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:47]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest3-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:47]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:50]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest4-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:50]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:53]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest4-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:53]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:55]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest4-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:55]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:53:58]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest5-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:53:58]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:01]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest5-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:01]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:04]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugGametest5-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:04]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:07]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:07]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:09]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:09]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:12]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:12]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:15]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest1-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:15]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:18]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest1-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:18]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:20]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest1-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:20]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:23]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest2-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:24]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:26]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest2-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:26]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:29]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest2-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:29]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:32]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest3-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:32]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:35]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest3-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:35]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:37]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest3-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:37]
+  Elapsed time [00:00:01]
+  Generating bootstrappers for Debug
+  ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperQTStudio\Redist.zip
+  1 File(s) copied
+  ..\..\UploadBits\Win32-Debug-BootstrapperRccService\Redist.zip
+  1 File(s) copied
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:41]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest4-BootstrapperClient\RobloxPlayerLauncher.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:41]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:43]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest4-BootstrapperQTStudio\RobloxStudioLauncherBeta.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:43]
+  Elapsed time [00:00:01]
+  Resource Tuner Console v1.92
+  Copyright (c) 2004-2011 Heaventools Software. All rights reserved.
+  This copy is licensed to Roblox Corporation.
+  License type: Floating User License. Number of licenses: 1
+  Starting script [18/04/2018 22:54:46]
+  Executing from directory 
+  Updating the checksum in the PE file header is enabled.
+  The creation of a backup copy is disabled.
+  Opening the file...
+  Open file: E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\UploadBits\Win32-DebugSitetest4-BootstrapperRccService\Roblox.exe
+EXEC : error : File not found. Please verify the correct file name was given.
+  Opening the file produced a fatal error.
+  Script finished [18/04/2018 22:54:46]
+  Elapsed time [00:00:01]
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: The command "@echo off
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: mkdir ..\..\UploadBits
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: rmdir /s /q ..\..\UploadBits\Win32-Debug-BootstrapperClient\
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: mkdir ..\..\UploadBits\Win32-Debug-BootstrapperClient\
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: xcopy /h /e /k /q ..\BootstrapperClient\bin\Debug\*.* ..\..\UploadBits\Win32-Debug-BootstrapperClient\
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: copy  ..\Uploader\Redist.zip ..\..\UploadBits\Win32-Debug-BootstrapperClient\Redist.zip
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: GenerateBootstrappers.bat Debug
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: 
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd" exited with code -1.
