@@ -1,0 +1,5 @@
+﻿  teamcity_boost.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\base.unittest.lib\teamcity_boost.cpp(22): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  Base.UnitTest.Lib.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\base.unittest.lib\include\rbx\test\test_tools.h(3): fatal error C1083: Cannot open include file: 'boost/test/test_tools.hpp': No such file or directory
+  Generating Code...

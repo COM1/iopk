@@ -1,0 +1,31 @@
+﻿  Log.cpp
+util\Log.cpp(10): fatal error C1083: Cannot open include file: 'boost/date_time/posix_time/posix_time.hpp': No such file or directory
+  boost.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  SystemUtil.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Time.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/atomic.h(51): fatal error C1083: Cannot open include file: 'boost/detail/interlocked.hpp': No such file or directory
+  ThreadSafe.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Coordinator.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/atomic.h(51): fatal error C1083: Cannot open include file: 'boost/detail/interlocked.hpp': No such file or directory
+  TaskScheduler.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/atomic.h(51): fatal error C1083: Cannot open include file: 'boost/detail/interlocked.hpp': No such file or directory
+  TaskScheduler.Thread.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/atomic.h(51): fatal error C1083: Cannot open include file: 'boost/detail/interlocked.hpp': No such file or directory
+  TaskScheduler.Job.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/atomic.h(51): fatal error C1083: Cannot open include file: 'boost/detail/interlocked.hpp': No such file or directory
+  Signal.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/signal.h(4): fatal error C1083: Cannot open include file: 'boost/type_traits.hpp': No such file or directory
+  ProcessPerfCounter.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Memory.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/Memory.h(6): fatal error C1083: Cannot open include file: 'boost/pool/singleton_pool.hpp': No such file or directory
+  CEvent.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/CEvent.h(2): fatal error C1083: Cannot open include file: 'boost/noncopyable.hpp': No such file or directory
+  RbxFormat.cpp
+RbxFormat.cpp(6): fatal error C1083: Cannot open include file: 'scoped_array.hpp': No such file or directory
+  SimpleJSON.cpp
+..\ClientShared\SimpleJSON.cpp(7): fatal error C1083: Cannot open include file: 'boost/algorithm/string.hpp': No such file or directory
+  Generating Code...
