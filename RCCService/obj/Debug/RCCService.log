@@ -1,0 +1,5 @@
+﻿  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\RCCService\gameserver.txt
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\fmod\win32\fmod.dll
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\VMProtect\VMProtectSDK32.dll
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\RCCService\Mesa-7.8.1\lib\Debug\GLU32.dll
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\CustomBuildRules.targets(45,5): error MSB3721: The command "copy "E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\RCCService\Mesa-7.8.1\lib\Debug\GLU32.dll" "E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\RCCService\Win32\Debug\"" exited with code 1.
