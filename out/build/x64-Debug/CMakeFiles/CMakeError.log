@@ -1,0 +1,118 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30037.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: no se puede abrir el archivo 'LIBCMT.lib'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30037.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: no se puede abrir el archivo 'LIBCMT.lib'
+
+
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+cl : Línea de comandos warning D9002 : se omite la opción desconocida '--version'
+cl : Línea de comandos error D8003 : falta el nombre del archivo de código fuente
+Checking whether the ASM compiler is Clang using "--version" did not match "(clang version)":
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+cl : Línea de comandos warning D9002 : se omite la opción desconocida '--version'
+cl : Línea de comandos error D8003 : falta el nombre del archivo de código fuente
+Checking whether the ASM compiler is AppleClang using "--version" did not match "(Apple LLVM version)":
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+cl : Línea de comandos warning D9002 : se omite la opción desconocida '--version'
+cl : Línea de comandos error D8003 : falta el nombre del archivo de código fuente
+Checking whether the ASM compiler is ARMClang using "--version" did not match "armclang":
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+cl : Línea de comandos warning D9002 : se omite la opción desconocida '--version'
+cl : Línea de comandos error D8003 : falta el nombre del archivo de código fuente
+Checking whether the ASM compiler is HP using "-V" did not match "HP C":
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+cl : Línea de comandos error D8004 : '/V' requiere un argumento
+Checking whether the ASM compiler is Intel using "--version" did not match "(ICC)":
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+cl : Línea de comandos warning D9002 : se omite la opción desconocida '--version'
+cl : Línea de comandos error D8003 : falta el nombre del archivo de código fuente
+Checking whether the ASM compiler is IntelLLVM using "--version" did not match "(Intel[^
+]+oneAPI)":
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+cl : Línea de comandos warning D9002 : se omite la opción desconocida '--version'
+cl : Línea de comandos error D8003 : falta el nombre del archivo de código fuente
+Checking whether the ASM compiler is SunPro using "-V" did not match "Sun C":
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+cl : Línea de comandos error D8004 : '/V' requiere un argumento
+Checking whether the ASM compiler is XL using "-qversion" did not match "XL C":
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.29.30037 para x64
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+cl : Línea de comandos warning D9002 : se omite la opción desconocida '-qversion'
+cl : Línea de comandos error D8003 : falta el nombre del archivo de código fuente
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: F:/roblox-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_8503f && [1/2] Building C object CMakeFiles\cmTC_8503f.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_8503f.exe
+FAILED: cmTC_8503f.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8503f.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_8503f.dir\CMakeCCompilerABI.c.obj  /out:cmTC_8503f.exe /implib:cmTC_8503f.lib /pdb:cmTC_8503f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_8503f.dir\CMakeCCompilerABI.c.obj /out:cmTC_8503f.exe /implib:cmTC_8503f.lib /pdb:cmTC_8503f.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_8503f.dir/intermediate.manifest CMakeFiles\cmTC_8503f.dir/manifest.res" failed (exit code 1181) with the following output:
+LINK : fatal error LNK1181: no se puede abrir el archivo de entrada 'kernel32.lib'
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: F:/roblox-master/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0cb9d && [1/2] Building C object CMakeFiles\cmTC_0cb9d.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_0cb9d.exe
+FAILED: cmTC_0cb9d.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_0cb9d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_0cb9d.dir\testCCompiler.c.obj  /out:cmTC_0cb9d.exe /implib:cmTC_0cb9d.lib /pdb:cmTC_0cb9d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_0cb9d.dir\testCCompiler.c.obj /out:cmTC_0cb9d.exe /implib:cmTC_0cb9d.lib /pdb:cmTC_0cb9d.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_0cb9d.dir/intermediate.manifest CMakeFiles\cmTC_0cb9d.dir/manifest.res" failed (exit code 1181) with the following output:
+LINK : fatal error LNK1181: no se puede abrir el archivo de entrada 'kernel32.lib'
+ninja: build stopped: subcommand failed.
+
+
+
