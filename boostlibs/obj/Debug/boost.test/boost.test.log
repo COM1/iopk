@@ -1,0 +1,45 @@
+﻿  xml_report_formatter.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\xml_report_formatter.cpp': No such file or directory
+  xml_log_formatter.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\xml_log_formatter.cpp': No such file or directory
+  unit_test_suite.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\unit_test_suite.cpp': No such file or directory
+  unit_test_parameters.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\unit_test_parameters.cpp': No such file or directory
+  unit_test_monitor.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\unit_test_monitor.cpp': No such file or directory
+  unit_test_main.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\unit_test_main.cpp': No such file or directory
+  unit_test_log.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\unit_test_log.cpp': No such file or directory
+  test_tools.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\test_tools.cpp': No such file or directory
+  test_main.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\test_main.cpp': No such file or directory
+  results_reporter.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\results_reporter.cpp': No such file or directory
+  results_collector.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\results_collector.cpp': No such file or directory
+  progress_monitor.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\progress_monitor.cpp': No such file or directory
+  plain_report_formatter.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\plain_report_formatter.cpp': No such file or directory
+  logged_expectations.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\logged_expectations.cpp': No such file or directory
+  interaction_based.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\interaction_based.cpp': No such file or directory
+  framework.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\framework.cpp': No such file or directory
+  execution_monitor.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\execution_monitor.cpp': No such file or directory
+  exception_safety.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\exception_safety.cpp': No such file or directory
+  debug.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\debug.cpp': No such file or directory
+  cpp_main.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\cpp_main.cpp': No such file or directory
+  Generating Code...
+  Compiling...
+  compiler_log_formatter.cpp
+c1xx : fatal error C1083: Cannot open source file: '\boost_1_56_0\libs\test\src\compiler_log_formatter.cpp': No such file or directory
+  Generating Code...

@@ -1,0 +1,47 @@
+﻿  uri.cpp
+c1xx : fatal error C1083: Cannot open source file: '\cpp-netlib-0.11.0-final\libs\network\src\uri\uri.cpp': No such file or directory
+  tss_pe.cpp
+\boost_1_56_0\libs\thread\src\win32\tss_pe.cpp(10): fatal error C1083: Cannot open include file: 'boost/thread/detail/config.hpp': No such file or directory
+  tss_dll.cpp
+\boost_1_56_0\libs\thread\src\win32\tss_dll.cpp(6): fatal error C1083: Cannot open include file: 'boost/thread/detail/config.hpp': No such file or directory
+  thread.cpp
+\boost_1_56_0\libs\thread\src\win32\thread.cpp(17): fatal error C1083: Cannot open include file: 'boost/thread/thread_only.hpp': No such file or directory
+  tss_null.cpp
+\boost_1_56_0\libs\thread\src\tss_null.cpp(7): fatal error C1083: Cannot open include file: 'boost/thread/detail/config.hpp': No such file or directory
+  future.cpp
+\boost_1_56_0\libs\thread\src\future.cpp(6): fatal error C1083: Cannot open include file: 'boost/thread/detail/config.hpp': No such file or directory
+  error_code.cpp
+\boost_1_56_0\libs\system\src\error_code.cpp(16): fatal error C1083: Cannot open include file: 'boost/system/error_code.hpp': No such file or directory
+  zlib.cpp
+\boost_1_56_0\libs\iostreams\src\zlib.cpp(17): fatal error C1083: Cannot open include file: 'boost/throw_exception.hpp': No such file or directory
+  mapped_file.cpp
+\boost_1_56_0\libs\iostreams\src\mapped_file.cpp(14): fatal error C1083: Cannot open include file: 'boost/iostreams/detail/config/rtl.hpp': No such file or directory
+  gzip.cpp
+\boost_1_56_0\libs\iostreams\src\gzip.cpp(17): fatal error C1083: Cannot open include file: 'boost/iostreams/detail/config/dyn_link.hpp': No such file or directory
+  file_descriptor.cpp
+\boost_1_56_0\libs\iostreams\src\file_descriptor.cpp(16): fatal error C1083: Cannot open include file: 'boost/config.hpp': No such file or directory
+  windows_file_codecvt.cpp
+\boost_1_56_0\libs\filesystem\src\windows_file_codecvt.cpp(20): fatal error C1083: Cannot open include file: 'boost/filesystem/config.hpp': No such file or directory
+  utf8_codecvt_facet.cpp
+\boost_1_56_0\libs\filesystem\src\utf8_codecvt_facet.cpp(15): fatal error C1083: Cannot open include file: 'boost/filesystem/config.hpp': No such file or directory
+  unique_path.cpp
+\boost_1_56_0\libs\filesystem\src\unique_path.cpp(20): fatal error C1083: Cannot open include file: 'boost/filesystem/operations.hpp': No such file or directory
+  portability.cpp
+\boost_1_56_0\libs\filesystem\src\portability.cpp(20): fatal error C1083: Cannot open include file: 'boost/filesystem/config.hpp': No such file or directory
+  path_traits.cpp
+\boost_1_56_0\libs\filesystem\src\path_traits.cpp(20): fatal error C1083: Cannot open include file: 'boost/filesystem/config.hpp': No such file or directory
+  path.cpp
+\boost_1_56_0\libs\filesystem\src\path.cpp(12): fatal error C1083: Cannot open include file: 'boost/config.hpp': No such file or directory
+  operations.cpp
+\boost_1_56_0\libs\filesystem\src\operations.cpp(44): fatal error C1083: Cannot open include file: 'boost/filesystem/operations.hpp': No such file or directory
+  codecvt_error_category.cpp
+\boost_1_56_0\libs\filesystem\src\codecvt_error_category.cpp(12): fatal error C1083: Cannot open include file: 'boost/config/warning_disable.hpp': No such file or directory
+  thread_clock.cpp
+\boost_1_56_0\libs\chrono\src\thread_clock.cpp(18): fatal error C1083: Cannot open include file: 'boost/chrono/detail/inlined/thread_clock.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  process_cpu_clocks.cpp
+\boost_1_56_0\libs\chrono\src\process_cpu_clocks.cpp(17): fatal error C1083: Cannot open include file: 'boost/chrono/detail/inlined/process_cpu_clocks.hpp': No such file or directory
+  chrono.cpp
+\boost_1_56_0\libs\chrono\src\chrono.cpp(14): fatal error C1083: Cannot open include file: 'boost/chrono/detail/inlined/chrono.hpp': No such file or directory
+  Generating Code...
