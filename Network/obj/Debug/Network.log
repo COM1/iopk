@@ -1,0 +1,225 @@
+﻿  WSAStartupSingleton.cpp
+raknet\Source\WSAStartupSingleton.cpp(46): error C2220: warning treated as error - no 'object' file generated
+raknet\Source\WSAStartupSingleton.cpp(46): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'LPVOID'
+  raknet\Source\WSAStartupSingleton.cpp(46): note: to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+  VariadicSQLParser.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  VariableListDeltaTracker.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  VariableDeltaSerializer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  UDPProxyServer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  UDPProxyCoordinator.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  UDPProxyClient.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  UDPForwarder.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  TelnetTransport.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  TableSerializer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  TCPInterface.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  StringTable.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  StringCompressor.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  SocketLayer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  SQLiteLoggerCommon.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  SQLiteClientLoggerPlugin.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  SQLite3PluginCommon.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  SQLite3ClientPlugin.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  Router2.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  ReliabilityLayer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  ReadyEvent.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  RakString.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  RakPeer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  RakNetTypes.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  RakNetTransport2.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  RakNetStatistics.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  RakNetSocket.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  RakNetCommandParser.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  RPC4Plugin.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  PluginInterface2.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  PacketizedTCP.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  NetworkIDObject.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  NetworkIDManager.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  NatTypeDetectionCommon.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  NatPunchthroughServer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  NatPunchthroughClient.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  IncrementalReadInterface.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  FullyConnectedMesh2.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  FileListTransfer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  FileList.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  DataCompressor.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  DS_Table.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  DS_HuffmanEncodingTree.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  ConnectionGraph2.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  CommandParserInterface.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  CCRakNetSlidingWindow.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  BitStream.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  WebChatFilter.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  Util.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  TopNErrorsPhysicsSender.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Streaming.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  ServerReplicator.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  Server.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  RoundRobinPhysicsSender.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  ReplicatorStats.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  Replicator.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  Replicator.TagItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Replicator.StreamJob.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  Replicator.StatsItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  Replicator.RockyItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  Replicator.ReferencePropertyChangedItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Replicator.PingItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Replicator.PingBackItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Replicator.NewInstanceItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  Replicator.MarkerItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Replicator.JoinDataItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  Replicator.ItemSender.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  Replicator.HashItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Replicator.GCJob.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  Replicator.EventInvocationItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Replicator.DeleteInstanceItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Replicator.ChangePropertyItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  Players.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  Player.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  PhysicsSender.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  PhysicsReceiver.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  PersistentDataStore.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  Peer.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  NetworkSettings.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  NetworkProfiler.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  NetworkPacketCache.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  NetworkOwnerJob.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/atomic.h(51): fatal error C1083: Cannot open include file: 'boost/detail/interlocked.hpp': No such file or directory
+  NetworkFilter.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  NetworkClusterPacketCache.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  NetPmc.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  MovementHistoryJob.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/atomic.h(51): fatal error C1083: Cannot open include file: 'boost/detail/interlocked.hpp': No such file or directory
+  MechanismItem.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  Marker.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  Item.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  InterpolatingPhysicsReceiver.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  GuidRegistryService.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  GamePerfMonitor.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\GamePerfMonitor.h(3): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  GameConfigurer.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  ErrorCompPhysicsSender2.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  ErrorCompPhysicsSender.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  DirectPhysicsReceiver.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  Dictionary.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  CrashReporter.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Analytics.h(6): fatal error C1083: Cannot open include file: 'boost/unordered_set.hpp': No such file or directory
+  ConcurrentRakPeer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\network\raknet\source\RakNetTypes.h(22): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  Compressor.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  ClusterUpdateBuffer.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  ClientReplicator.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/UintSet.h(4): fatal error C1083: Cannot open include file: 'boost/cstdint.hpp': No such file or directory
+  Client.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  ChatFilter.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  BoostAppend.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Base\include\rbx/boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  API.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Network\include\network/API.h(6): fatal error C1083: Cannot open include file: 'boost/scoped_ptr.hpp': No such file or directory
+  Generating Code...

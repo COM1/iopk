@@ -1,0 +1,2 @@
+﻿  FastLog.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\log\fastlog.cpp(11): fatal error C1083: Cannot open include file: 'boost/thread/mutex.hpp': No such file or directory
