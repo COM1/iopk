@@ -1,0 +1,54 @@
+﻿  Running CoreScriptConverter
+  'output'='../../App/script/LuaGenCSNew.inl'
+  'source'='../../content/scripts'
+   CoreScripts/BubbleChat: .
+   CoreScripts/BuildToolsScripts/BuildToolManager: .
+   CoreScripts/BuildToolsScripts/BuildToolsScript: .
+   CoreScripts/BuildToolsScripts/PersonalServerScript: .
+   CoreScripts/ContextActionTouch: .
+   CoreScripts/DeveloperConsole: .
+   CoreScripts/GamepadMenu: .
+   CoreScripts/HealthScript: .
+   CoreScripts/MainBotChatScript2: .
+   CoreScripts/NotificationScript2: .
+   CoreScripts/PurchasePromptScript2: .
+   CoreScripts/Topbar: .
+   CoreScripts/VehicleHud: .
+   Libraries/RbxGui: .
+   Libraries/RbxStamper: .
+   Libraries/RbxUtility: .
+   LoadingScript: .
+   BackpackScript: .
+   Chat: .
+   DeveloperConsoleModule: .
+   PlayerDropDown: .
+   PlayerlistModule: .
+   Settings/Pages/GameSettings: .
+   Settings/Pages/Help: .
+   Settings/Pages/Home: .
+   Settings/Pages/LeaveGame: .
+   Settings/Pages/Players: .
+   Settings/Pages/Record: .
+   Settings/Pages/ReportAbuseMenu: .
+   Settings/Pages/ResetCharacter: .
+   Settings/SettingsHub: .
+   Settings/SettingsPageFactory: .
+   Settings/Utility: .
+   TenFootInterface: .
+   ServerCoreScripts/ServerSocialScript: .
+   ServerStarterScript: .
+   StarterScript: .
+  .....................................
+  
+  E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\App\script
+  No CoreScript changes detected
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\fmod\win32\fmod.dll
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\ShaderCompiler\d3dcompiler_47.dll
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\OpenVR\bin\win32\openvr_api.dll
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\SDL2\Win\2.0.4\SDL2.dll
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\SDL2\Win\2.0.4\SDL2.pdb
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\VMProtect\VMProtectSDK32.dll
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\RbxDebug\bin\Debug\RbxDebug.dll
+  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\RbxDebug\bin\Debug\RbxDebug.pdb
+  stdafx.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\windowsclient\stdafx.h(33): fatal error C1083: Cannot open include file: 'boost/format.hpp': No such file or directory

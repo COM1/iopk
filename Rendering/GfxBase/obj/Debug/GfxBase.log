@@ -1,0 +1,25 @@
+﻿  ViewportBillboarder.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\app\include\util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  ViewBase.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\GfxBase\include\GfxBase/ViewBase.h(3): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  RenderStats.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\GfxBase\include\GfxBase/RenderStats.h(5): fatal error C1083: Cannot open include file: 'boost/scoped_ptr.hpp': No such file or directory
+  PartIdentifier.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\app\include\util/name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  IAdornableCollector.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\app\include\Util/IndexArray.h(5): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  GfxPart.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\GfxBase\include\GfxBase/GfxPart.h(3): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  FrameRateManager.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\GfxBase\include\GfxBase/FrameRateManager.h(6): fatal error C1083: Cannot open include file: 'boost/numeric/ublas/vector.hpp': No such file or directory
+  FileMeshData.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\app\include\Util/Name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  AdornSurface.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\GfxBase\include\GfxBase/TextureProxyBase.h(3): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  AdornBillboarder2D.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\GfxBase\include\GfxBase/TextureProxyBase.h(3): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  AdornBillboarder.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\GfxBase\include\GfxBase/TextureProxyBase.h(3): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  Adorn.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\GfxBase\include\GfxBase/TextureProxyBase.h(3): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  Generating Code...

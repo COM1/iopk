@@ -1,0 +1,62 @@
+﻿  BinaryInput.cpp
+g3dcpp\BinaryInput.cpp(39): fatal error C1083: Cannot open include file: 'zlib.h': No such file or directory
+  BinaryOutput.cpp
+g3dcpp\BinaryOutput.cpp(16): fatal error C1083: Cannot open include file: 'zlib.h': No such file or directory
+  Color3uint8.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/g3dmath.h(258): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(17): note: see declaration of 'std'
+  E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Color3uint8.h(74): note: see reference to function template instantiation 'T G3D::max<G3D::uint8>(const T &,const T &)' being compiled
+          with
+          [
+              T=G3D::uint8
+          ]
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/g3dmath.h(258): error C2275: 'T': illegal use of this type as an expression
+  E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Color3uint8.h(74): note: see declaration of 'T'
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/g3dmath.h(243): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(17): note: see declaration of 'std'
+  E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Color3uint8.h(78): note: see reference to function template instantiation 'T G3D::min<G3D::uint8>(const T &,const T &)' being compiled
+          with
+          [
+              T=G3D::uint8
+          ]
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/g3dmath.h(243): error C2275: 'T': illegal use of this type as an expression
+  E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Color3uint8.h(78): note: see declaration of 'T'
+  Color4uint8.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/g3dmath.h(258): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(17): note: see declaration of 'std'
+  E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Color3uint8.h(74): note: see reference to function template instantiation 'T G3D::max<G3D::uint8>(const T &,const T &)' being compiled
+          with
+          [
+              T=G3D::uint8
+          ]
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/g3dmath.h(258): error C2275: 'T': illegal use of this type as an expression
+  E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Color3uint8.h(74): note: see declaration of 'T'
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/g3dmath.h(243): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(17): note: see declaration of 'std'
+  E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Color3uint8.h(78): note: see reference to function template instantiation 'T G3D::min<G3D::uint8>(const T &,const T &)' being compiled
+          with
+          [
+              T=G3D::uint8
+          ]
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/g3dmath.h(243): error C2275: 'T': illegal use of this type as an expression
+  E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Color3uint8.h(78): note: see declaration of 'T'
+  Crypto.cpp
+g3dcpp\Crypto.cpp(14): fatal error C1083: Cannot open include file: 'zlib.h': No such file or directory
+  GImage.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\png\png.h(497): fatal error C1083: Cannot open include file: 'zlib.h': No such file or directory
+  GImage_png.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\png\png.h(497): fatal error C1083: Cannot open include file: 'zlib.h': No such file or directory
+  Vector3int16.cpp
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Vector3int16.h(175): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(17): note: see declaration of 'std'
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Vector3int16.h(175): error C2661: 'G3D::Vector3int16::max': no overloaded function takes 2 arguments
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Vector3int16.h(179): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(17): note: see declaration of 'std'
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Vector3int16.h(179): error C2661: 'G3D::Vector3int16::max': no overloaded function takes 2 arguments
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Vector3int16.h(183): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(17): note: see declaration of 'std'
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Vector3int16.h(183): error C2661: 'G3D::Vector3int16::min': no overloaded function takes 2 arguments
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Vector3int16.h(187): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string(17): note: see declaration of 'std'
+E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\Rendering\g3d\include\G3D/Vector3int16.h(187): error C2661: 'G3D::Vector3int16::min': no overloaded function takes 2 arguments
+  Generating Code...

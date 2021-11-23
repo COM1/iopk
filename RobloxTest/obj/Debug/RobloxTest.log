@@ -1,0 +1,18 @@
+﻿  Copying E:\stuffthatisprobablybreakingthelawbutidontcare\Roblox Source\fmod\win32\fmod.dll
+  main.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest.lib\include\rbx\test\app.unittest.lib.h(2): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  Tests.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\robloxtest\tests.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  VersionInfo.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\win\versioninfo.cpp(17): fatal error C1083: Cannot open include file: 'boost/tokenizer.hpp': No such file or directory
+  LogManager.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\base\include\rbx\boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  ErrorUploader.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\base\include\rbx\boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  DumpErrorUploader.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\base\include\rbx\boost.hpp(7): fatal error C1083: Cannot open include file: 'boost/config/user.hpp': No such file or directory
+  DataModelSerialize.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app\include\util\name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  LuaVMDummy.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app\include\script\luavm.h(13): fatal error C1083: Cannot open include file: 'boost/unordered_map.hpp': No such file or directory
+  Generating Code...
