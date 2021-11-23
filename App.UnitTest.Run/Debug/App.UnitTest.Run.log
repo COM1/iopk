@@ -1,0 +1,4 @@
+﻿  '..\App.UnitTest\bin\Debug\App.UnitTest.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(203,5): error MSB3073: The command "..\App.UnitTest\bin\Debug\App.UnitTest.exe --content_path=..\Content --log_level=test_suite --build_info=yes
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(203,5): error MSB3073: :VCEnd" exited with code 9009.

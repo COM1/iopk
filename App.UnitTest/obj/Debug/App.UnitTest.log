@@ -1,0 +1,111 @@
+﻿  XmlElement.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\xmlelement.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  WebSerializerTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\webserializertest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  WebParserTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\webparsertest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  VoxelCellUtilV1Deprecated.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app\include\voxel\cell.h(3): fatal error C1083: Cannot open include file: 'boost/static_assert.hpp': No such file or directory
+  VoxelCellUtilTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\voxelcellutiltest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  URLParserTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\urlparsertest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ToolTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\tooltest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ThreadPoolTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\threadpooltest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  StreamRegionTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\streamregiontest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  StatsServiceTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\statsservicetest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  SpatialRegionTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\spatialregiontest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  SpatialHashTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\spatialhashtest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  SettingsURL.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\settingsurl.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  SettingsTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\settingstest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  SerializationTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\serializationtest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  SelectionTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\selectiontest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ReplicatorStreamJobTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\replicatorstreamjobtest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ReplicatorGcJobTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\replicatorgcjobtest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  RemoteSignal.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\remotesignal.cpp(6): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ReflectionTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\reflectiontest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  RaycastTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\raycasttest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  RakNet.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\raknet.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  PathfindingTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\pathfindingtest.cpp(8): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  NetworkSecurity.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\networksecurity.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  Network.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\network.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ModuleScriptTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\modulescripttest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  MiscRegression.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\miscregression.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  MD5.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\md5.cpp(8): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  LuaYieldingTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\luayieldingtest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  LuaVector3Test.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\luavector3test.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  LuaTokenizer.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\luatokenizer.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  LuaSandbox.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\luasandbox.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  LuaReflection.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\luareflection.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  LuaDebugger.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\luadebugger.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  LogServiceTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\logservicetest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  Instance.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\instance.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  HumanoidTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\humanoidtest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  HttpCacheEntryTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\httpcacheentrytest.cpp(2): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  HeapValueTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\heapvaluetest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  HTTPTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\httptest.cpp(11): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  G3D.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\g3d.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  FastLogSettingsTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\fastlogsettingstest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  CustomEvents.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\customevents.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ContentProviderTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\contentprovidertest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ClusterReplicationTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\clusterreplicationtest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ClusterDeprecatedPropertyTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\clusterdeprecatedpropertytest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ClusterChangeHistoryTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\clusterchangehistorytest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  ChatTests.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\chattests.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  Base64BinaryStreamTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\base64binarystreamtest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  AutowedgeTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\autowedgetest.cpp(1): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  App.UnitTest.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app.unittest\app.unittest.cpp(2): fatal error C1083: Cannot open include file: 'boost/test/unit_test.hpp': No such file or directory
+  DataModelSerialize.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app\include\util\name.h(8): fatal error C1083: Cannot open include file: 'boost/utility.hpp': No such file or directory
+  LuaVMDummy.cpp
+e:\stuffthatisprobablybreakingthelawbutidontcare\roblox source\app\include\script\luavm.h(13): fatal error C1083: Cannot open include file: 'boost/unordered_map.hpp': No such file or directory
+  Generating Code...
