@@ -61,8 +61,11 @@ Now before we start compiling anything we have to organize where everything goes
 *(Ignore the fact that the "VMP" folder is missing from the screenshot)*
 
 ## Setting up the environment
-In order for the source to know where to find the depedencies you need to create an environment variable on the system, To do this, Create a system variable with the name "CONTRIB_PATH" and the value being the contrib path (C:\Trunk2012\Contribs)
+In order for the source to know where to find the depedencies you need to create an environment variable on the system, To do this, Create a system variable with the name "CONTRIB_PATH" and the value being the contrib path (C:\Trunk2012\Contribs) <br>
 ![enter image description here](https://images-ext-2.discordapp.net/external/KwezZ33xuHYr0lZXYqA4cpTMVOWdjfCldRsJwXuPBEs/https/i.imgur.com/l9SxGvr.png)<br>
 *(In the screenshot it shows just C:\Trunk2012 but ignore that because I put the contribs all in the root of Trunk2012 instead of a dedicated folder called Contribs)*
 <br><br>
-Guide by Yakov.
+Guide by Yakov.<br><br>
+# Disclaimer:
+i might get fucked by roblox, so you should get this while u can 😀<br>
+theres a fixed version of the source made by **hitius** but u gotta seek for it 👀<br>
